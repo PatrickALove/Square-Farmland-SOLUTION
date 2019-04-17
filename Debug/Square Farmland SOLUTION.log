@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\TriadProgrammingContest-master\TriadProgrammingContest-master\Square Farmland SOLUTION\Source.h(3): error C2065: 'M': undeclared identifier
+E:\TriadProgrammingContest-master\TriadProgrammingContest-master\Square Farmland SOLUTION\Source.h(3): error C2065: 'N': undeclared identifier
+E:\TriadProgrammingContest-master\TriadProgrammingContest-master\Square Farmland SOLUTION\Source.cpp(35): error C3861: 'min': identifier not found
